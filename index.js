@@ -1,1 +1,1 @@
-<h1>Berkay MEAN App</h1>
+<h1>Berkay MEAN App using MEAN STACK</h1>
